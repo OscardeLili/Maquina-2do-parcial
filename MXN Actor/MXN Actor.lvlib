@@ -6,6 +6,7 @@
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Init Msg.lvclass" Type="LVClass" URL="../../MXN Actor Messages/Init Msg/Init Msg.lvclass"/>
 		<Item Name="Process Coin Msg.lvclass" Type="LVClass" URL="../../MXN Actor Messages/Process Coin Msg/Process Coin Msg.lvclass"/>
+		<Item Name="Reset credit Msg.lvclass" Type="LVClass" URL="../../MXN Actor Messages/Reset credit Msg/Reset credit Msg.lvclass"/>
 	</Item>
 	<Item Name="MXN Actor.lvclass" Type="LVClass" URL="../MXN Actor.lvclass"/>
 </Library>
