@@ -6,6 +6,7 @@
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Init Msg.lvclass" Type="LVClass" URL="../../Coffee Actor Messages/Init Msg/Init Msg.lvclass"/>
 		<Item Name="Send product selected Msg.lvclass" Type="LVClass" URL="../../Coffee Actor Messages/Send product selected Msg/Send product selected Msg.lvclass"/>
+		<Item Name="Update Inventory Msg.lvclass" Type="LVClass" URL="../../Coffee Actor Messages/Update Inventory Msg/Update Inventory Msg.lvclass"/>
 	</Item>
 	<Item Name="Coffee Actor.lvclass" Type="LVClass" URL="../Coffee Actor.lvclass"/>
 </Library>

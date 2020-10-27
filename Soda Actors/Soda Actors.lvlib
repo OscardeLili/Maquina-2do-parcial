@@ -6,6 +6,7 @@
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Init Msg.lvclass" Type="LVClass" URL="../../Soda Actors Messages/Init Msg/Init Msg.lvclass"/>
 		<Item Name="Send selected product Msg.lvclass" Type="LVClass" URL="../../Soda Actors Messages/Send selected product Msg/Send selected product Msg.lvclass"/>
+		<Item Name="Update inventory Msg.lvclass" Type="LVClass" URL="../../Soda Actors Messages/Update inventory Msg/Update inventory Msg.lvclass"/>
 	</Item>
 	<Item Name="Soda Actors.lvclass" Type="LVClass" URL="../Soda Actors.lvclass"/>
 </Library>
